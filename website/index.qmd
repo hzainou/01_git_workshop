@@ -1,0 +1,78 @@
+---
+title: "Website für Git-Workshop-Repo"
+---
+
+Heute schreiben wir eine Website für unser Git-Repo mit Quarto. 
+Hier wird ein Bild eingefügt:
+
+### Tomatenpflanzen im Glasgewächshaus
+![von Erwan Hesry auf Unsplash](/img/erwan-hesry-1q75BReKpms-unsplash.jpg)
+
+### Gärtnerei im Gewächshaus
+![von Tima Miroshnichenko auf Pexels](/img/pexels-tima-miroshnichenko-6510873.jpg)
+
+Und dann verlinken wir [hier](../src/Markdown/ProductReview.md) eine Datei aus unserem Projekt.
+
+## Description
+
+This is an extensive Open Educational Resource (OER) comprising training materials designed to help you plan, create and conduct training events on Research Data Management (RDM) for agrosystem science researchers. These resources include presentation slides, presenter notes, teaching scripts with learning objectives, worksheets and a recording of an RDM training session, as well as a guide on how to create a training session. All resources are structured and described in accordance with the EduBrick concept, whereby the teaching resources are broken down into the smallest didactic unit, called 'Bricks', which can be used to create targeted learning/teaching units for training events tailored to the respective needs. To enhance reusability, all materials are provided in multiple formats and are openly licensed.
+
+We also provide an example of how the Bricks could be used to create a four-hour online training course, including a teaching script, presentation slides, worksheets and a video recording of the training course.
+
+## Intended Use
+This publication is designed to:
+
+- Enable flexible reuse and recombination
+
+- Support trainers in different institutional contexts
+
+- Facilitate adaptation to specific target groups
+
+- Encourage collaborative use without structural modification
+
+- The modular design ensures that content can be tailored to specific formats, disciplines, and levels of expertise while maintaining didactical coherence.
+
+## How to Use
+This publication includes three 7z files, each of which contains a complex folder structure with over 270 individual files.
+Therefore, we recommend
+
+1) first reviewing the READ ME file, which provides information about the content and structure of the training material.
+2) You can also look at the "How to Create a Training" file for detailed instructions on how to create a training using this material.
+3) Then, decide which format you prefer (Microsoft Office if you want to use PowerPoint; LibreOffice if you want to use open-source solutions like LibreOffice Impress; or PDF if you want to use this format, but be aware that these don't include presentation notes).
+4) Download the respective .7z file and unpack it using 7-Zip (recommended), Zip, or another suitable tool by right-clicking on the file.
+5) Make sure the files are sorted by name - regardless of file type (if your system allows that). This makes it easier to navigate the folderstructure
+
+## Content
+This publication includes:
+
+- READ ME file (pdf)
+
+- “How to create a training” Guide (pdf)
+
+- Recording of an four hour example training session (mp4)
+
+- Three Zip folders containing all training materials (presentation slides, teaching scripts, worksheets) in multiple formats:
+
+- “Bricks_pdf”: all materials in pdf formats (excluding presenters notes)
+
+- “Bricks_MicrosoftOffice”: presentation slides as pptx, teachingscript as xlsx, worksheets as docx
+
+- “Bricks_LibreOffice”: presentation slides as odp, teaching script as ods, worksheets as odt
+
+We recommend using Microsoft Office or LibreOffice, depending on your system, rather than using PDF files. 
+
+## Target Group
+The target group of this resource are RDM professionals, data stewards, and teachers in agrosystem science, who want to conduct discipline-specific RDM training for researchers within the agrosystem sciences.
+
+## Discipline
+Agrosystem Science Research
+
+## Language
+English
+
+## Acknowledgements
+Many of the slides are based on templates and prior work by Justine Vandendorp. We gratefully acknowledge her contributions to the development of these materials.
+
+We also extend our sincere thanks to Hafssa Zainou and Anna Schlimbach for their valuable assistance in the structuring and formatting of the materials. 
+
+This work was created as part of the NFDI consortium FAIRagro (www.fairagro.net). We gratefully acknowledge the financial support of the German Research Foundation (DFG) – project number 501899475 

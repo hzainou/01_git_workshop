@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "",
+    "text": "Heute schreiben wir eine Website für unser Git-Repo mit Quarto. Hier wird ein Bild eingefügt:"
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "Description",
+    "text": "Description\nThis is an extensive Open Educational Resource (OER) comprising training materials designed to help you plan, create and conduct training events on Research Data Management (RDM) for agrosystem science researchers. These resources include presentation slides, presenter notes, teaching scripts with learning objectives, worksheets and a recording of an RDM training session, as well as a guide on how to create a training session. All resources are structured and described in accordance with the EduBrick concept, whereby the teaching resources are broken down into the smallest didactic unit, called ‘Bricks’, which can be used to create targeted learning/teaching units for training events tailored to the respective needs. To enhance reusability, all materials are provided in multiple formats and are openly licensed.\nWe also provide an example of how the Bricks could be used to create a four-hour online training course, including a teaching script, presentation slides, worksheets and a video recording of the training course."
+  },
+  {
+    "objectID": "index.html#intended-use",
+    "href": "index.html#intended-use",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "Intended Use",
+    "text": "Intended Use\nThis publication is designed to:\n\nEnable flexible reuse and recombination\nSupport trainers in different institutional contexts\nFacilitate adaptation to specific target groups\nEncourage collaborative use without structural modification\nThe modular design ensures that content can be tailored to specific formats, disciplines, and levels of expertise while maintaining didactical coherence."
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "How to Use",
+    "text": "How to Use\nThis publication includes three 7z files, each of which contains a complex folder structure with over 270 individual files. Therefore, we recommend\n\nfirst reviewing the READ ME file, which provides information about the content and structure of the training material.\nYou can also look at the “How to Create a Training” file for detailed instructions on how to create a training using this material.\nThen, decide which format you prefer (Microsoft Office if you want to use PowerPoint; LibreOffice if you want to use open-source solutions like LibreOffice Impress; or PDF if you want to use this format, but be aware that these don’t include presentation notes).\nDownload the respective .7z file and unpack it using 7-Zip (recommended), Zip, or another suitable tool by right-clicking on the file.\nMake sure the files are sorted by name - regardless of file type (if your system allows that). This makes it easier to navigate the folderstructure"
+  },
+  {
+    "objectID": "index.html#content",
+    "href": "index.html#content",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "Content",
+    "text": "Content\nThis publication includes:\n\nREAD ME file (pdf)\n“How to create a training” Guide (pdf)\nRecording of an four hour example training session (mp4)\nThree Zip folders containing all training materials (presentation slides, teaching scripts, worksheets) in multiple formats:\n“Bricks_pdf”: all materials in pdf formats (excluding presenters notes)\n“Bricks_MicrosoftOffice”: presentation slides as pptx, teachingscript as xlsx, worksheets as docx\n“Bricks_LibreOffice”: presentation slides as odp, teaching script as ods, worksheets as odt\n\nWe recommend using Microsoft Office or LibreOffice, depending on your system, rather than using PDF files."
+  },
+  {
+    "objectID": "index.html#target-group",
+    "href": "index.html#target-group",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "Target Group",
+    "text": "Target Group\nThe target group of this resource are RDM professionals, data stewards, and teachers in agrosystem science, who want to conduct discipline-specific RDM training for researchers within the agrosystem sciences."
+  },
+  {
+    "objectID": "index.html#discipline",
+    "href": "index.html#discipline",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "Discipline",
+    "text": "Discipline\nAgrosystem Science Research"
+  },
+  {
+    "objectID": "index.html#language",
+    "href": "index.html#language",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "Language",
+    "text": "Language\nEnglish"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nMany of the slides are based on templates and prior work by Justine Vandendorp. We gratefully acknowledge her contributions to the development of these materials.\nWe also extend our sincere thanks to Hafssa Zainou and Anna Schlimbach for their valuable assistance in the structuring and formatting of the materials.\nThis work was created as part of the NFDI consortium FAIRagro (www.fairagro.net). We gratefully acknowledge the financial support of the German Research Foundation (DFG) – project number 501899475"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site: Diese Website ist während einer Übung in einem Git-Workshop entstanden. Diese Website wurde von Hafssa Zainou."
+  }
+]

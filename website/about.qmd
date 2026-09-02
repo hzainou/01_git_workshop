@@ -1,0 +1,6 @@
+---
+title: "About"
+---
+
+About this site:
+Diese Website ist während einer Übung in einem Git-Workshop entstanden. Diese Website wurde von [Hafssa Zainou](mailto:zainou@zbmed.de).
